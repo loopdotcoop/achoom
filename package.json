@@ -1,0 +1,44 @@
+{
+  "name": "achoom",
+  "version": "1.0.0",
+  "description": "The great green neon Oom",
+  "main": "dist/main/achoom.min.5.js",
+  "directories": {
+    "example": "support"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "node oomtility/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopdotcoop/achoom.git"
+  },
+  "keywords": [
+    "Oom",
+    "X",
+    "Interactive",
+    "X",
+    "3d",
+    "X",
+    "Sequencer",
+    "X",
+    "Instrument",
+    "X",
+    "Seqin",
+    "X",
+    "Web Audio"
+  ],
+  "author": "Rich Plastow <rich@richplastow.com> (https://richplastow.com/)",
+  "contributors": [
+    "Loop.Coop <info@loop.coop> (https://loop.coop/)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loopdotcoop/achoom/issues"
+  },
+  "homepage": "http://achoom.loop.coop/"
+}

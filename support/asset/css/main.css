@@ -1,0 +1,49 @@
+
+
+/* FONTS */
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+pre, tt, code, kbd, samp, var {
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+
+
+
+/* COLOURS */
+
+body {
+    background: #22ee44;
+}
+.container {
+    background: #fff;
+}
+
+
+
+
+/* LAYOUT */
+
+.container {
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-radius: 0 0 4px 4px;
+}
+
+
+
+
+/* HOMEPAGE */
+
+#logo {
+    display: block;
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
